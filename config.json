@@ -58,6 +58,39 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "python-apis",
+      "title": "APIs and HTTP Requests",
+      "description": "Interacting with web APIs using Python's requests library to fetch and display data.",
+      "path": "assignments/python-apis",
+      "dueDate": "2026-02-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
+      "id": "python-text-processing",
+      "title": "Python Text Processing",
+      "description": "Working with strings, file I/O, and text manipulation in Python.",
+      "path": "assignments/python-text-processing",
+      "dueDate": "2026-02-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Text",
+          "file": "sample-text.txt",
+          "type": "text"
+        }
+      ]
     }
   ]
 }
